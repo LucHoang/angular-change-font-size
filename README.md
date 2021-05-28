@@ -1,5 +1,13 @@
 # AngularChangeFontSize
 
+## Mục tiêu
+- Nắm bắt được về component data binding trong Angular.
+
+## Mô tả
+- Tạo ứng dụng thay đổi font size của 1 phần tử (đoạn text chẳng hạn)
+
+======================================================================
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
 ## Development server
